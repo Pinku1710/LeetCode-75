@@ -4,14 +4,11 @@
 
 **1 / 75 Problems Solved**
 
-| # | Problem | Topic | Language | Status |
-|---|---|---|---|---|
-| 1768 | Merge Strings Alternately | Array / String | C++ | ✅ Solved |
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1431 | Kids With the Greatest Number of Candies | Easy | [C++](./1431-kids-with-the-greatest-number-of-candies.cpp) |
-| 605 | Can Place Flowers | Easy | [C++](./0605-can-place-flowers.cpp) |
+| # | Problem | Topic | Difficulty | Language | Status | Solution |
+|---|---------|-------|------------|----------|--------|----------|
+| 1768 | Merge Strings Alternately | Array / String | Easy | C++ | ✅ Solved | [C++](./1768-merge-strings-alternately.cpp) |
+| 1431 | Kids With the Greatest Number of Candies | Array | Easy | C++ | ✅ Solved | [C++](./1431-kids-with-the-greatest-number-of-candies.cpp) |
+| 605 | Can Place Flowers | Array | Easy | C++ | ✅ Solved | [C++](./0605-can-place-flowers.cpp) |
 
 ## 🎯 Goal
 
