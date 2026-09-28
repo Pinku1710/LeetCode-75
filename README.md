@@ -10,6 +10,11 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1431 | Kids With the Greatest Number of Candies | Easy | [C++](./1431-kids-with-the-greatest-number-of-candies.cpp) |
+| 605 | Can Place Flowers | Easy | [C++](./0605-can-place-flowers.cpp) |
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
 | 605 | Can Place Flowers | Easy | [C++](./0605-can-place-flowers.cpp) |
 
 ## 🎯 Goal
