@@ -8,6 +8,10 @@
 |---|---|---|---|---|
 | 1768 | Merge Strings Alternately | Array / String | C++ | ✅ Solved |
 
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 605 | Can Place Flowers | Easy | [C++](./0605-can-place-flowers.cpp) |
+
 ## 🎯 Goal
 
 - Solve all LeetCode 75 Interview Questions
