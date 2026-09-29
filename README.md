@@ -9,6 +9,7 @@
 | 1768 | Merge Strings Alternately | Array / String | Easy | C++ | ✅ Solved | [C++](./1768-merge-strings-alternately.cpp) |
 | 1431 | Kids With the Greatest Number of Candies | Array | Easy | C++ | ✅ Solved | [C++](./1431-kids-with-the-greatest-number-of-candies.cpp) |
 | 605 | Can Place Flowers | Array | Easy | C++ | ✅ Solved | [C++](./0605-can-place-flowers.cpp) |
+| 345 | Reverse Vowels of a String | Two Pointers | C++ | ✅ Solved |
 
 ## 🎯 Goal
 
