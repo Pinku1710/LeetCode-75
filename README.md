@@ -10,6 +10,7 @@
 | 1431 | Kids With the Greatest Number of Candies | Array | Easy | C++ | ✅ Solved | [C++](./1431-kids-with-the-greatest-number-of-candies.cpp) |
 | 605 | Can Place Flowers | Array | Easy | C++ | ✅ Solved | [C++](./0605-can-place-flowers.cpp) |
 | 345 | Reverse Vowels of a String | Two Pointers | C++ | ✅ Solved |
+| 151 | Reverse Words in a String | Medium | [C++](./151-reverse-words-in-a-string.cpp) |
 
 ## 🎯 Goal
 
