@@ -11,7 +11,7 @@
 | 605 | Can Place Flowers | Array | Easy | C++ | ✅ Solved | [C++](./0605-can-place-flowers.cpp) |
 | 345 | Reverse Vowels of a String | Two Pointers | C++ | ✅ Solved |
 | 151 | Reverse Words in a String | Medium | [C++](./151-reverse-words-in-a-string.cpp) |
-| 238 | Product of Array Except Self | Array / Prefix & Suffix | C++ | ✅ Solved |
+| 238 | Product of Array Except Self | Medium | [C++](./0238-product-of-array-except-self.cpp) |
 
 ## 🎯 Goal
 
