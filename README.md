@@ -12,6 +12,7 @@
 | 345 | Reverse Vowels of a String | Two Pointers | C++ | ✅ Solved |
 | 151 | Reverse Words in a String | Medium | [C++](./151-reverse-words-in-a-string.cpp) |
 | 238 | Product of Array Except Self | Medium | [C++](./0238-product-of-array-except-self.cpp) |
+| 334 | Increasing Triplet Subsequence | Array / Greedy | C++ | ✅ Solved |
 
 ## 🎯 Goal
 
