@@ -14,6 +14,7 @@
 | 238 | Product of Array Except Self | Medium | [C++](./0238-product-of-array-except-self.cpp) |
 | 334 | Increasing Triplet Subsequence | Array / Greedy | C++ | ✅ Solved |
 | 443 | String Compression | Medium | [C++](./0443-string-compression/0443-string-compression.cpp) |
+| 283 | Move Zeroes | Easy | [C++](./283-move-zeroes.cpp) |
 
 ## 🎯 Goal
 
