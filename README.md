@@ -15,6 +15,7 @@
 | 334 | Increasing Triplet Subsequence | Array / Greedy | C++ | ✅ Solved |
 | 443 | String Compression | Medium | [C++](./0443-string-compression/0443-string-compression.cpp) |
 | 283 | Move Zeroes | Easy | [C++](./283-move-zeroes.cpp) |
+| 392 | Is Subsequence | Easy | [C++](./0392-is-subsequence.cpp) |
 
 ## 🎯 Goal
 
