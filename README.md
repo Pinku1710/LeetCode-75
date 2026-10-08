@@ -18,6 +18,7 @@
 | 392 | Is Subsequence | Easy | [C++](./0392-is-subsequence.cpp) |
 | 11 | Container With Most Water | Medium | Array, Two Pointers | C++ | ✅ Solved | [Solution](./0011-container-with-most-water/0011-container-with-most-water.cpp) |
 | 1679 | Max Number of K-Sum Pairs | Medium | Sorting, Two Pointers | C++ | [Solution](./1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.cpp) | [README](./1679-max-number-of-k-sum-pairs/README.md) |
+| 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i/) | Easy | Sliding Window | [C++](./0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.cpp) | ✅ |
 
 ## 🎯 Goal
 
