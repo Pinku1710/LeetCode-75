@@ -22,6 +22,9 @@
 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Sliding Window, String | [C++](./LeetCode%2075%20Interview%20Questions/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) |
 
+| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [C++ Solution](./1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp) · [README](./1004-max-consecutive-ones-iii/README.md) | Sliding Window |
+
+
 
 ## 🎯 Goal
 
