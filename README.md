@@ -24,6 +24,7 @@
 
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [C++ Solution](./1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp) · [README](./1004-max-consecutive-ones-iii/README.md) | Sliding Window |
 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](./1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium | C++ | Solved |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array, Prefix Sum | C++ | [Solution](./1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp) | [README](./1732-find-the-highest-altitude/README.md) |
 
 
 
