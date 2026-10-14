@@ -26,6 +26,9 @@
 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](./1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium | C++ | Solved |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array, Prefix Sum | C++ | [Solution](./1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp) | [README](./1732-find-the-highest-altitude/README.md) |
 
+| 2215 | Find the Difference of Two Arrays | Easy | C++ | [Solution](./2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp) | [README](./2215-find-the-difference-of-two-arrays/README.md) |
+
+
 
 
 ## 🎯 Goal
