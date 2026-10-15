@@ -27,6 +27,7 @@
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array, Prefix Sum | C++ | [Solution](./1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp) | [README](./1732-find-the-highest-altitude/README.md) |
 
 | 2215 | Find the Difference of Two Arrays | Easy | C++ | [Solution](./2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp) | [README](./2215-find-the-difference-of-two-arrays/README.md) |
+| 1207 | Unique Number of Occurrences | Easy | C++ | [Solution](./1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp) | [Explanation](./1207-unique-number-of-occurrences/README.md) |
 
 
 
