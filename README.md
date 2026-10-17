@@ -28,6 +28,9 @@
 
 | 2215 | Find the Difference of Two Arrays | Easy | C++ | [Solution](./2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp) | [README](./2215-find-the-difference-of-two-arrays/README.md) |
 | 1207 | Unique Number of Occurrences | Easy | C++ | [Solution](./1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp) | [Explanation](./1207-unique-number-of-occurrences/README.md) |
+| 1657 | Determine if Two Strings Are Close | String, Hash Table, Sorting | [C++ Solution](./LeetCode%2075%20Interview%20Questions/1657/1657-determine-if-two-strings-are-close.cpp) | [README](./LeetCode%2075%20Interview%20Questions/1657/README.md) |
+| 2352 | [Equal Row and Column Pairs](./2352-equal-row-and-column-pairs/) | Medium | C++ |
+
 
 
 
