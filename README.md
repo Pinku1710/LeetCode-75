@@ -31,6 +31,8 @@
 | 1657 | Determine if Two Strings Are Close | String, Hash Table, Sorting | [C++ Solution](./LeetCode%2075%20Interview%20Questions/1657/1657-determine-if-two-strings-are-close.cpp) | [README](./LeetCode%2075%20Interview%20Questions/1657/README.md) |
 | 2352 | [Equal Row and Column Pairs](./2352-equal-row-and-column-pairs/) | Medium | C++ |
 
+| 2390 | Removing Stars From a String | String, Stack | [Solution](./2390-removing-stars-from-a-string.cpp) | [README](./2390/README.md) |
+
 
 
 
